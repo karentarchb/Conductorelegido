@@ -879,7 +879,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .context-dark .box-minimal p, .bg-gray-700 .box-minimal p, .bg-gray-primary .box-minimal p, .bg-gray .box-minimal p, .bg-gray-primary-light .box-minimal p, .bg-primary .box-minimal p {
-	color: #888888;
+	color: #000000;
 }
 
 .box-counter {
@@ -2376,7 +2376,7 @@ input:-webkit-autofill ~ .form-validation {
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 24px;
-	color: #888888;
+	color: #000000;
 	background-color: transparent;
 	background-image: none;
 	border-radius: 0;
@@ -2401,7 +2401,7 @@ textarea.form-input {
 .form-label,
 .form-label-outside {
 	margin-bottom: 0;
-	color: #888888;
+	color: #000000;
 	font-weight: 400;
 }
 
@@ -2421,7 +2421,7 @@ textarea.form-input {
 	transition: .25s;
 	will-change: transform;
 	transform: translateY(-50%);
-	color: #888888;
+	color: #000000;
 }
 
 .form-label.focus {
@@ -2429,7 +2429,7 @@ textarea.form-input {
 }
 
 .form-label.auto-fill {
-	color: #888888;
+	color: #000000;
 }
 
 .label-textarea {
@@ -3325,7 +3325,7 @@ textarea.form-input {
 }
 
 .list-categories .count {
-	color: #888888;
+	color: #000000;
 }
 
 .list-categories > li + li {
@@ -3390,7 +3390,7 @@ textarea.form-input {
 
 .post-single__time-month {
 	font-size: 12px;
-	color: #888888;
+	color: #000000;
 }
 
 .post-single__title {
@@ -3520,7 +3520,7 @@ textarea.form-input {
 	position: relative;
 	top: 1px;
 	font-size: 16px;
-	color: #888888;
+	color: #000000;
 }
 
 .post-single__meta .icon.mdi-account {
@@ -3662,7 +3662,7 @@ textarea.form-input {
 	position: relative;
 	top: 1px;
 	font-size: 16px;
-	color: #888888;
+	color: #000000;
 }
 
 .post-minimal__meta a {
@@ -3968,7 +3968,7 @@ textarea.form-input {
 
 .pagination__control.active a,
 .pagination__list li.active a {
-	color: #888888;
+	color: #000000;
 }
 
 .pagination__control a,
@@ -3994,7 +3994,7 @@ textarea.form-input {
 
 .pagination__control a:hover,
 .pagination__list li a:hover {
-	color: #888888;
+	color: #000000;
 }
 
 .pagination__control a::before,
@@ -4167,7 +4167,7 @@ textarea.form-input {
 */
 .footer-classic {
 	padding: 30px 0;
-	background: #404044;
+	background: var(--fondo);
 	color: #aab2b9;
 	font-size: 16px;
 }
@@ -4438,7 +4438,7 @@ textarea.form-input {
 }
 
 .comment__link .icon {
-	color: #888888;
+	color: #000000;
 	transition: inherit;
 }
 
@@ -5710,7 +5710,7 @@ html [class*='section-'].section-bottom-0 {
 .bg-image-2 {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-color: #404044;
+	background-color: var(--fondo);
 }
 
 @media (min-width: 576px) {
@@ -5844,7 +5844,7 @@ html [class*='section-'].section-bottom-0 {
 
 p.rights {
 	font-size: 14px;
-	color: #888888;
+	color: #ffffff;
 }
 
 p.rights a {
@@ -7782,7 +7782,7 @@ html.rd-navbar-fixed-linked .page {
 .rd-search-results-live #search-results {
 	position: relative;
 	padding: 16px 0 0;
-	color: #888888;
+	color: #000000;
 	background: #f5f5f5;
 	opacity: 0;
 	visibility: hidden;
@@ -8207,7 +8207,7 @@ html.rd-navbar-fixed-linked .page {
 	}
 	.tabs-line .nav-link {
 		padding: 7px 10px;
-		color: #888888;
+		color: #000000;
 		background: transparent;
 		border-bottom: 1px solid #e5e7e9;
 	}
@@ -8237,7 +8237,7 @@ html.rd-navbar-fixed-linked .page {
 	font-size: 12px;
 	font-weight: 700;
 	line-height: 1.4;
-	color: #888888;
+	color: #000000;
 	background: transparent;
 	border-bottom: 1px solid #e5e7e9;
 	text-align: center;
@@ -8546,7 +8546,7 @@ html.rd-navbar-fixed-linked .page {
 .card-corporate .collapse {
 	position: relative;
 	z-index: 1;
-	color: #888888;
+	color: #000000;
 	border-radius: 0 0 6px 6px;
 }
 
